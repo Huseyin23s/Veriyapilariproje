@@ -61,4 +61,4 @@ Yukaridaki dizinin Binary-Search-Tree aşamalarını yazınız.
         / \
        2   4
 
-Root 7 dir
+Root 7 dir.
